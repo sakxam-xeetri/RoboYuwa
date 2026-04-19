@@ -271,7 +271,7 @@ strong {
     height: 48px;
     width: 48px;
     object-fit: cover;
-    border-radius: 4px;
+    border-radius: 50%;
 }
 
 .logo-text {
