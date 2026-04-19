@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/roboyuwalogo.jpg" alt="RoboYuwa Logo" width="200">
+    <img src="assets/favicon.png  " alt="RoboYuwa Logo" width="200">
     <h1>RoboYuwa Official Website</h1>
 </div>
 
