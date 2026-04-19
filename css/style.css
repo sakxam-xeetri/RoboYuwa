@@ -442,7 +442,8 @@ strong {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    filter: blur(1px); /* Reduced from 2px */
+    filter: brightness(.8);
+
     transform: scale(1.04);
     will-change: transform;
 }
@@ -495,7 +496,8 @@ strong {
     text-transform: uppercase;
 }
 
-.scroll-cue svg, .scroll-cue i {
+.scroll-cue svg,
+.scroll-cue i {
     animation: bounceArrow 1.8s infinite;
 }
 
