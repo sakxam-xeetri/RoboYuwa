@@ -495,7 +495,7 @@ strong {
     text-transform: uppercase;
 }
 
-.scroll-cue svg {
+.scroll-cue svg, .scroll-cue i {
     animation: bounceArrow 1.8s infinite;
 }
 
