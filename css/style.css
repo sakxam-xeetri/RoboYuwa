@@ -527,6 +527,63 @@ strong { color: var(--text-main); font-weight: 600; }
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2.5rem;
 }
+
+/* Team Grid from About Page */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 2.5rem;
+    margin-top: 3rem;
+}
+
+.team-card {
+    background: var(--white);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--gray-100);
+    transition: var(--transition);
+    text-align: center;
+    padding: 2rem 1.5rem;
+}
+
+.team-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--primary-color);
+}
+
+.team-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: var(--gray-100);
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+}
+
+.team-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.25rem;
+    color: var(--black);
+}
+
+.team-card p {
+    font-size: 0.95rem;
+    color: var(--primary-color);
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.team-card .member-role {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin-top: 0.5rem;
+}
 .program-card {
     background: var(--white);
     border-radius: 8px;

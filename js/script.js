@@ -91,11 +91,13 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Reveal animation for sections/cards on scroll
-    const revealTargets = document.querySelectorAll(
-        '.section-title, .about-grid, .mission-card, .objective-item, .program-card, .stat-box, .timeline-item, .cta .container'
-    );
+    const targetSelectors = '.section-title, .about-grid, .mission-card, .objective-item, .program-card, .stat-box, .timeline-item, .cta .container, .team-card';
+    const revealTargets = document.querySelectorAll(targetSelectors);
 
     revealTargets.forEach((el) => el.classList.add('reveal'));
+
+    // Select all elements that now have .reveal (including hardcoded ones in HTML)
+    const allRevealElements = document.querySelectorAll('.reveal');
 
     const observer = new IntersectionObserver(
         (entries, obs) => {
@@ -109,5 +111,5 @@ document.addEventListener('DOMContentLoaded', () => {
         { threshold: 0.05, rootMargin: '0px 0px -50px 0px' }
     );
 
-    revealTargets.forEach((el) => observer.observe(el));
+    allRevealElements.forEach((el) => observer.observe(el));
 });
