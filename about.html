@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | RoboYuwa | Empowering Youth Through Innovation</title>
+    <meta name="description" content="Learn more about RoboYuwa, a youth-driven NGO focused on robotics, technology, research, and innovation. Discover our mission, vision, history, and the team driving change.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Specific Styles for About Page to complement global css */
+        .page-header {
+            padding: 160px 0 80px;
+            background: var(--black);
+            color: var(--white);
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .page-header-bg {
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(135deg, rgba(209, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.9) 100%), url('assets/group photo.jpeg') center/cover;
+            opacity: 0.4;
+            z-index: 0;
+        }
+
+        .page-header .container {
+            position: relative;
+            z-index: 1;
+        }
+        
+        .page-header h1 {
+            color: var(--white);
+            font-size: clamp(2.5rem, 5vw, 4rem);
+            margin-bottom: 1rem;
+        }
+        
+        .page-header p {
+            font-size: 1.2rem;
+            color: var(--gray-300);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .about-story {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: var(--text-light);
+            margin-bottom: 2rem;
+        }
+
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2.5rem;
+            margin-top: 3rem;
+        }
+
+        .team-card {
+            background: var(--white);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--gray-100);
+            transition: var(--transition);
+            text-align: center;
+            padding: 2rem 1.5rem;
+        }
+
+        .team-card:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-md);
+            border-color: var(--primary-color);
+        }
+
+        .team-avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: var(--gray-100);
+            margin: 0 auto 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
+        }
+
+        .team-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 0.25rem;
+            color: var(--black);
+        }
+
+        .team-card p {
+            font-size: 0.95rem;
+            color: var(--primary-color);
+            font-weight: 500;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-container">
+                <div class="top-info">
+                    <span class="info-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                        contact@roboyuwa.org
+                    </span>
+                    <span class="info-item">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                        Kathmandu, Nepal
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="navbar" id="navbar">
+            <div class="container nav-container">
+                <a href="index.html" class="logo">
+                    <img src="assets/roboyuwalogo.jpg" alt="RoboYuwa Logo" loading="eager" decoding="async">
+                    <div class="logo-text">
+                        <span class="brand-name">RoboYuwa</span>
+                        <span class="brand-tagline">Youth Innovation</span>
+                    </div>
+                </a>
+                <button class="mobile-toggle" aria-label="Toggle Navigation" aria-expanded="false" aria-controls="nav-links">
+                    <span class="hamburger"></span>
+                </button>
+                <nav id="nav-links" class="nav-links">
+                    <ul>
+                        <li><a href="index.html#home" class="nav-item">Home</a></li>
+                        <li><a href="about.html" class="nav-item active">About</a></li>
+                        <li><a href="index.html#mission" class="nav-item">Mission & Vision</a></li>
+                        <li><a href="index.html#programs" class="nav-item">Programs</a></li>
+                        <li><a href="index.html#impact" class="nav-item">Impact</a></li>
+                        <li><a href="index.html#contact" class="btn btn-primary btn-sm">Support Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="page-header-bg"></div>
+        <div class="container fade-in-up">
+            <h1>About RoboYuwa</h1>
+            <p>Empowering the next generation of tech leaders in Nepal through hands-on robotics, research, and innovation.</p>
+        </div>
+    </section>
+
+    <!-- Detailed About Section -->
+    <section class="section-padding">
+        <div class="container">
+            <div class="about-grid">
+                <div class="reveal">
+                    <div class="section-title" style="margin-bottom: 1.5rem;">
+                        <h2>Our Story</h2>
+                        <div class="divider"></div>
+                    </div>
+                    <p class="about-story">
+                        Founded in June 2024, <strong>RoboYuwa</strong> is a youth-driven non-governmental organization entirely dedicated to robotics, technology, research, and innovation. We emerged from a shared vision to provide a technical platform exclusively for youth, enabling them to explore their potential without barriers.
+                    </p>
+                    <p class="about-story">
+                        Our journey began with a singular goal: to develop a generation of practical problem solvers. Just months after our inception, we proudly represented Nepal at the Technoxian World Robotics Championship in August 2024. Since then, we have expanded our reach to multiple districts, impacting over 1,200 young minds through 40+ structured workshops.
+                    </p>
+                    <p class="about-story">
+                        At RoboYuwa, we operate purely on the core values of <strong>Transparency, Accountability, Equality, Inclusiveness, and Ethical Technology Use</strong>.
+                    </p>
+                </div>
+                <div class="about-image reveal delay-1">
+                    <img src="assets/group photo.jpeg" alt="RoboYuwa Team collaborating" loading="lazy" decoding="async">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Core Objectives -->
+    <section class="section-padding bg-light">
+        <div class="container">
+            <div class="section-title text-center reveal">
+                <h2>Our Governance & Focus</h2>
+                <div class="divider center"></div>
+                <p class="mt-3" style="max-width: 800px; margin-left: auto; margin-right: auto;">Our organization is built on a strong foundation of clear roles and a steadfast commitment to our technical community.</p>
+            </div>
+
+            <div class="objectives-grid mt-5 reveal delay-1">
+                <div class="objective-item">
+                    <span class="obj-number">01</span>
+                    <h3>Technical Excellence</h3>
+                    <p>Building an innovative mindset and advancing technical research through our dedicated Technical & Research Department.</p>
+                </div>
+                <div class="objective-item">
+                    <span class="obj-number">02</span>
+                    <h3>Community Outreach</h3>
+                    <p>Bridging the gap between technology and society by organizing workshops for underserved schools and local communities.</p>
+                </div>
+                <div class="objective-item">
+                    <span class="obj-number">03</span>
+                    <h3>Skill Development</h3>
+                    <p>Cultivating youth leadership, confidence, and creative problem-solving skills beyond just writing code or building circuits.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Leadership Structure -->
+    <section class="section-padding">
+        <div class="container">
+            <div class="section-title text-center reveal">
+                <h2>Our Leadership Structure</h2>
+                <div class="divider center"></div>
+                <p class="mt-3">A dedicated executive board guiding the vision and operations of RoboYuwa.</p>
+            </div>
+            
+            <div class="team-grid reveal delay-1">
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
+                    </div>
+                    <h3>President</h3>
+                    <p>Vision & Direction</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+                    </div>
+                    <h3>Vice President</h3>
+                    <p>Internal Operations</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                    </div>
+                    <h3>Secretariat</h3>
+                    <p>Administration</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"></line><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                    </div>
+                    <h3>Treasurer</h3>
+                    <p>Financial Transparency</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                    </div>
+                    <h3>Technical Head</h3>
+                    <p>Research & Engineering</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+                    </div>
+                    <h3>Outreach Head</h3>
+                    <p>Partnerships & Relations</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"></path><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path></svg>
+                    </div>
+                    <h3>Creative Head</h3>
+                    <p>Branding & Content</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                    </div>
+                    <h3>Event Planner</h3>
+                    <p>Logistics & Execution</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta section-padding" style="background: var(--primary-gradient); color: white; text-align: center;">
+        <div class="container reveal">
+            <h2 style="color: white; margin-bottom: 1rem;">Be Part of the Journey</h2>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1.1rem; margin-bottom: 2rem; max-width: 600px; margin-left: auto; margin-right: auto;">
+                We are constantly looking for passionate members, volunteers, and partners to help us build an innovative future. 
+            </p>
+            <a href="mailto:contact@roboyuwa.org" class="btn btn-secondary">Get Involved Today</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="footer">
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <div class="footer-logo">
+                    <img src="assets/roboyuwalogo.jpg" alt="RoboYuwa Logo" loading="lazy" decoding="async">
+                    <span>RoboYuwa</span>
+                </div>
+                <p class="footer-description">Student-led technical community from Nepal dedicated to robotics, artificial intelligence, embedded systems, and emerging technologies.</p>
+                <div class="footer-socials">
+                    <a href="https://www.instagram.com/robo__yuwa/" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on Instagram" class="social-btn">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37a4 4 0 1 1-7.75 1.25 4 4 0 0 1 7.75-1.25z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+                    </a>
+                    <a href="https://www.facebook.com/profile.php?id=61563808928659" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on Facebook" class="social-btn">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3.5l.5-4H14V7a1 1 0 0 1 1-1h3z"></path></svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/roboyuwa/posts/?feedView=all" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on LinkedIn" class="social-btn">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
+                    </a>
+                </div>
+            </div>
+
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="index.html#home">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="index.html#programs">Events</a></li>
+                    <li><a href="index.html#contact">Join Club</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links">
+                <h4>Legal &amp; Policies</h4>
+                <ul>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Cookie Policy</a></li>
+                    <li><a href="#">Terms of Service</a></li>
+                    <li><a href="index.html#programs">Project Gallery</a></li>
+                    <li><a href="about.html">Our Team</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-contact">
+                <h4>Contact Info</h4>
+                <ul class="contact-list">
+                    <li>
+                        <span class="contact-icon">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                        </span>
+                        <span>+977 980-0000000</span>
+                    </li>
+                    <li>
+                        <span class="contact-icon">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c2 0 2 2 2 2v12c0 2-2 2-2 2H4c-2 0-2-2-2-2V6c0-2 2-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                        </span>
+                        <a href="mailto:contact@roboyuwa.org">contact@roboyuwa.org</a>
+                    </li>
+                    <li>
+                        <span class="contact-icon">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                        </span>
+                        <span>Kathmandu, Nepal</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="container text-center" style="position: relative;">
+                <p>&copy; 2026 RoboYuwa. All rights reserved.</p>
+                <a href="#header" class="back-to-top" aria-label="Back to top">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
