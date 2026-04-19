@@ -1,294 +1,455 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="assets/favicon.png" />
     <title>RoboYuwa | Empowering Youth Through Innovation</title>
-    <meta name="description" content="RoboYuwa is a youth-driven NGO focused on robotics, technology, research, and innovation. Empowering youth to transform communities.">
-    <link rel="preload" as="image" href="assets/homepage.jpg" fetchpriority="high">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta
+      name="description"
+      content="RoboYuwa is a youth-driven NGO focused on robotics, technology, research, and innovation. Empowering youth to transform communities."
+    />
+    <link
+      rel="preload"
+      as="image"
+      href="assets/homepage.jpg"
+      fetchpriority="high"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://zenithkandel.com.np/fontawesome/zenith-icons.js"></script>
-</head>
-<body>
-
+  </head>
+  <body>
     <!-- Header (Top Utility Bar + Search/Donate) -->
     <header class="header" id="header">
-        <div class="top-bar">
-            <div class="container top-bar-container">
-                <div class="top-info">
-                    <span class="info-item">
-                        <i class="fa-sharp fa-solid fa-envelope"></i>
-                        roboyuwa@gmail.com
-                    </span>
-                    <span class="info-item">
-                        <i class="fa-sharp fa-solid fa-location-dot"></i>
-                        Kathmandu, Nepal
-                    </span>
-                </div>
-            </div>
+      <div class="top-bar">
+        <div class="container top-bar-container">
+          <div class="top-info">
+            <span class="info-item">
+              <i class="fa-sharp fa-solid fa-envelope"></i>
+              roboyuwa@gmail.com
+            </span>
+            <span class="info-item">
+              <i class="fa-sharp fa-solid fa-location-dot"></i>
+              Kathmandu, Nepal
+            </span>
+          </div>
         </div>
+      </div>
 
-        <!-- Main Navigation Bar -->
-        <div class="navbar" id="navbar">
-            <div class="container nav-container">
-                <a href="#" class="logo">
-                    <img src="assets/roboyuwalogo.jpg" alt="RoboYuwa Logo" loading="eager" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                    <div class="logo-text">
-                        <span class="brand-name">RoboYuwa</span>
-                        <span class="brand-tagline">Youth Innovation</span>
-                    </div>
-                </a>
-                <button class="mobile-toggle" aria-label="Toggle Navigation" aria-expanded="false" aria-controls="nav-links">
-                    <span class="hamburger"></span>
-                </button>
-                <nav id="nav-links" class="nav-links">
-                    <ul>
-                        <li><a href="#home" class="nav-item">Home</a></li>
-                        <li><a href="about.html" class="nav-item">About</a></li>
-                        <li><a href="programs.html" class="nav-item">Programs</a></li>
-                        <li><a href="contact.html" class="nav-item">Contact</a></li>
-                        <li><a href="team.html" class="btn btn-primary btn-sm">Our Team</a></li>
-                    </ul>
-                </nav>
+      <!-- Main Navigation Bar -->
+      <div class="navbar" id="navbar">
+        <div class="container nav-container">
+          <a href="#" class="logo">
+            <img
+              src="assets/roboyuwalogo.jpg"
+              alt="RoboYuwa Logo"
+              loading="eager"
+              decoding="async"
+              onerror="
+                this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+              "
+            />
+            <div class="logo-text">
+              <span class="brand-name">RoboYuwa</span>
+              <span class="brand-tagline">Youth Innovation</span>
             </div>
+          </a>
+          <button
+            class="mobile-toggle"
+            aria-label="Toggle Navigation"
+            aria-expanded="false"
+            aria-controls="nav-links"
+          >
+            <span class="hamburger"></span>
+          </button>
+          <nav id="nav-links" class="nav-links">
+            <ul>
+              <li><a href="#home" class="nav-item">Home</a></li>
+              <li><a href="about.html" class="nav-item">About</a></li>
+              <li><a href="programs.html" class="nav-item">Programs</a></li>
+              <li><a href="contact.html" class="nav-item">Contact</a></li>
+              <li>
+                <a href="team.html" class="btn btn-primary btn-sm">Our Team</a>
+              </li>
+            </ul>
+          </nav>
         </div>
+      </div>
     </header>
 
     <!-- Hero Section -->
     <section id="home" class="hero">
-        <div class="hero-bg">
-<<<<<<< HEAD
-            <img src="assets/page.png" alt="RoboYuwa Youth working on robotics" loading="eager" decoding="async" fetchpriority="high" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-=======
-            <img src="assets/homepage.jpg" alt="RoboYuwa Youth working on robotics" loading="eager" decoding="async" fetchpriority="high" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
->>>>>>> c2185bbdfc600af4dea16c07720ad60175a495cc
-            <div class="overlay"></div>
+      <div class="hero-bg">
+        <img
+          src="assets/homepage.jpg"
+          alt="RoboYuwa Youth working on robotics"
+          loading="eager"
+          decoding="async"
+          fetchpriority="high"
+          onerror="
+            this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+          "
+        />
+        <div class="overlay"></div>
+      </div>
+      <div class="container hero-content">
+        <h1>Empowering Youth Through Innovation</h1>
+        <p>
+          A youth-driven organization building
+          <strong>innovation</strong> through hands-on learning and creative
+          problem-solving.<br />
+          We empower <strong>robotics</strong> talent and
+          <strong>youth leadership</strong> to transform communities.
+        </p>
+        <div class="hero-actions">
+          <a href="programs.html" class="btn btn-primary"
+            >Discover Our Programs</a
+          >
+          <a href="about.html" class="btn btn-secondary">Learn More</a>
         </div>
-        <div class="container hero-content">
-            <h1>Empowering Youth Through Innovation</h1>
-            <p>
-                A youth-driven organization building <strong>innovation</strong> through hands-on learning and creative problem-solving.<br>
-                We empower <strong>robotics</strong> talent and <strong>youth leadership</strong> to transform communities.
-            </p>
-            <div class="hero-actions">
-                <a href="programs.html" class="btn btn-primary">Discover Our Programs</a>
-                <a href="about.html" class="btn btn-secondary">Learn More</a>
-            </div>
-            <a href="#about" class="scroll-cue" aria-label="Scroll down to About section">
-                <span>Scroll Down</span>
-                <i class="fa-solid fa-arrow-down"></i>
-            </a>
-        </div>
-        <div class="hero-divider" aria-hidden="true">
-            <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
-                <path d="M0,64L80,80C160,96,320,128,480,122.7C640,117,800,75,960,58.7C1120,43,1280,53,1360,58.7L1440,64L1440,120L1360,120C1280,120,1120,120,960,120C800,120,640,120,480,120C320,120,160,120,80,120L0,120Z"></path>
-            </svg>
-        </div>
+        <a
+          href="#about"
+          class="scroll-cue"
+          aria-label="Scroll down to About section"
+        >
+          <span>Scroll Down</span>
+          <i class="fa-solid fa-arrow-down"></i>
+        </a>
+      </div>
+      <div class="hero-divider" aria-hidden="true">
+        <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+          <path
+            d="M0,64L80,80C160,96,320,128,480,122.7C640,117,800,75,960,58.7C1120,43,1280,53,1360,58.7L1440,64L1440,120L1360,120C1280,120,1120,120,960,120C800,120,640,120,480,120C320,120,160,120,80,120L0,120Z"
+          ></path>
+        </svg>
+      </div>
     </section>
 
     <!-- About Section -->
     <section id="about" class="about section-padding">
-        <div class="container">
-            <div class="section-title">
-                <h2>Who We Are</h2>
-                <div class="divider"></div>
-            </div>
-            <div class="about-grid">
-                <div class="about-text">
-                    <p>Founded in June 2024, <strong>RoboYuwa</strong> is a youth-driven NGO focused on robotics, technology, research, and innovation. We believe in providing a dedicated technical platform for youth to explore their potential.</p>
-                    <p>Our core purpose is to build an innovative mindset among the youth and develop their leadership, confidence, and creative problem-solving skills in the field of robotics and technical research. Through collaboration and hands-on learning, we unite young minds for science and technology.</p>
-                    <ul class="core-values">
-                        <li><strong>Transparency</strong> & <strong>Accountability</strong></li>
-                        <li><strong>Equality</strong> & <strong>Inclusiveness</strong></li>
-                        <li><strong>Ethical Technology Use</strong> & <strong>Community Impact</strong></li>
-                    </ul>
-                </div>
-                <div class="about-image">
-                    <img src="assets/group photo.jpeg" alt="RoboYuwa Team and Members" loading="lazy" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                </div>
-            </div>
+      <div class="container">
+        <div class="section-title">
+          <h2>Who We Are</h2>
+          <div class="divider"></div>
         </div>
+        <div class="about-grid">
+          <div class="about-text">
+            <p>
+              Founded in June 2024, <strong>RoboYuwa</strong> is a youth-driven
+              NGO focused on robotics, technology, research, and innovation. We
+              believe in providing a dedicated technical platform for youth to
+              explore their potential.
+            </p>
+            <p>
+              Our core purpose is to build an innovative mindset among the youth
+              and develop their leadership, confidence, and creative
+              problem-solving skills in the field of robotics and technical
+              research. Through collaboration and hands-on learning, we unite
+              young minds for science and technology.
+            </p>
+            <ul class="core-values">
+              <li>
+                <strong>Transparency</strong> & <strong>Accountability</strong>
+              </li>
+              <li>
+                <strong>Equality</strong> & <strong>Inclusiveness</strong>
+              </li>
+              <li>
+                <strong>Ethical Technology Use</strong> &
+                <strong>Community Impact</strong>
+              </li>
+            </ul>
+          </div>
+          <div class="about-image">
+            <img
+              src="assets/group photo.jpeg"
+              alt="RoboYuwa Team and Members"
+              loading="lazy"
+              decoding="async"
+              onerror="
+                this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+              "
+            />
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- Mission & Objectives Section -->
     <section id="mission" class="mission section-padding bg-light">
-        <div class="container">
-            <div class="mission-vision-wrapper">
-                <div class="mission-card">
-                    <div class="icon-wrapper">
-                        <i class="fa-solid fa-rocket"></i>
-                    </div>
-                    <h3>Our Mission</h3>
-                    <p>To empower youth with technology skills, creative problem-solving, and leadership to transform communities.</p>
-                </div>
-                <div class="mission-card">
-                    <div class="icon-wrapper">
-                        <i class="fa-solid fa-eye"></i>
-                    </div>
-                    <h3>Our Vision</h3>
-                    <p>A society where ethical technology and innovation are driven by capable, confident, and united youth creating sustainable community impact.</p>
-                </div>
+      <div class="container">
+        <div class="mission-vision-wrapper">
+          <div class="mission-card">
+            <div class="icon-wrapper">
+              <i class="fa-solid fa-rocket"></i>
             </div>
-
-            <div class="objectives-section mt-5">
-                <div class="section-title text-center">
-                    <h2>Key Objectives</h2>
-                    <div class="divider center"></div>
-                </div>
-                <div class="objectives-grid">
-                    <div class="objective-item">
-                        <span class="obj-number">01</span>
-                        <p>Promote hands-on learning, innovation, and creativity in robotics and technology.</p>
-                    </div>
-                    <div class="objective-item">
-                        <span class="obj-number">02</span>
-                        <p>Develop leadership, teamwork, and problem-solving through projects, workshops, and community programs.</p>
-                    </div>
-                    <div class="objective-item">
-                        <span class="obj-number">03</span>
-                        <p>Unite young minds for science and technology collaboration and foster an ethical approach.</p>
-                    </div>
-                    <div class="objective-item">
-                        <span class="obj-number">04</span>
-                        <p>Build robotics & technology projects and actively participate in national and international competitions.</p>
-                    </div>
-                </div>
+            <h3>Our Mission</h3>
+            <p>
+              To empower youth with technology skills, creative problem-solving,
+              and leadership to transform communities.
+            </p>
+          </div>
+          <div class="mission-card">
+            <div class="icon-wrapper">
+              <i class="fa-solid fa-eye"></i>
             </div>
+            <h3>Our Vision</h3>
+            <p>
+              A society where ethical technology and innovation are driven by
+              capable, confident, and united youth creating sustainable
+              community impact.
+            </p>
+          </div>
         </div>
+
+        <div class="objectives-section mt-5">
+          <div class="section-title text-center">
+            <h2>Key Objectives</h2>
+            <div class="divider center"></div>
+          </div>
+          <div class="objectives-grid">
+            <div class="objective-item">
+              <span class="obj-number">01</span>
+              <p>
+                Promote hands-on learning, innovation, and creativity in
+                robotics and technology.
+              </p>
+            </div>
+            <div class="objective-item">
+              <span class="obj-number">02</span>
+              <p>
+                Develop leadership, teamwork, and problem-solving through
+                projects, workshops, and community programs.
+              </p>
+            </div>
+            <div class="objective-item">
+              <span class="obj-number">03</span>
+              <p>
+                Unite young minds for science and technology collaboration and
+                foster an ethical approach.
+              </p>
+            </div>
+            <div class="objective-item">
+              <span class="obj-number">04</span>
+              <p>
+                Build robotics & technology projects and actively participate in
+                national and international competitions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- Programs & Initiatives -->
     <section id="programs" class="programs section-padding">
-        <div class="container">
-            <div class="section-title">
-                <h2>Major Initiatives</h2>
-                <div class="divider"></div>
-            </div>
-            <div class="programs-grid">
-                <article class="program-card">
-                    <div class="program-img">
-                        <img src="assets/workshop.png" alt="RoboLearn Initiative" loading="lazy" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                    </div>
-                    <div class="program-content">
-                        <h3>RoboLearn Initiative</h3>
-                        <p>A structured 12-week robotics curriculum specifically designed for underserved schools, bringing essential tech education to communities that need it most.</p>
-                    </div>
-                </article>
-                <article class="program-card">
-                    <div class="program-img">
-                        <img src="assets/hackathon radar 2026.jpeg" alt="InnovatYouth Summit" loading="lazy" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                    </div>
-                    <div class="program-content">
-                        <h3>InnovatYouth Summit</h3>
-                        <p>An annual youth solution showcase focusing on empowering young creators. Participants present innovative projects judged by industry experts.</p>
-                    </div>
-                </article>
-                <article class="program-card">
-                    <div class="program-img">
-                        <img src="assets/socoor bot.jpeg" alt="Tech4Community" loading="lazy" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                    </div>
-                    <div class="program-content">
-                        <h3>Tech4Community</h3>
-                        <p>Empowering youth to design and develop low-cost technical solutions addressing the immediate needs of local organizations and the community.</p>
-                    </div>
-                </article>
-            </div>
+      <div class="container">
+        <div class="section-title">
+          <h2>Major Initiatives</h2>
+          <div class="divider"></div>
         </div>
-            <div style="text-align: center; margin-top: 3rem;">
-                <a href="programs.html" class="btn btn-primary" style="padding: 0.8rem 2rem; border-radius: 30px;">Explore All Programs &amp; Initiatives</a>
+        <div class="programs-grid">
+          <article class="program-card">
+            <div class="program-img">
+              <img
+                src="assets/workshop.png"
+                alt="RoboLearn Initiative"
+                loading="lazy"
+                decoding="async"
+                onerror="
+                  this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+                "
+              />
             </div>
+            <div class="program-content">
+              <h3>RoboLearn Initiative</h3>
+              <p>
+                A structured 12-week robotics curriculum specifically designed
+                for underserved schools, bringing essential tech education to
+                communities that need it most.
+              </p>
+            </div>
+          </article>
+          <article class="program-card">
+            <div class="program-img">
+              <img
+                src="assets/hackathon radar 2026.jpeg"
+                alt="InnovatYouth Summit"
+                loading="lazy"
+                decoding="async"
+                onerror="
+                  this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+                "
+              />
+            </div>
+            <div class="program-content">
+              <h3>InnovatYouth Summit</h3>
+              <p>
+                An annual youth solution showcase focusing on empowering young
+                creators. Participants present innovative projects judged by
+                industry experts.
+              </p>
+            </div>
+          </article>
+          <article class="program-card">
+            <div class="program-img">
+              <img
+                src="assets/socoor bot.jpeg"
+                alt="Tech4Community"
+                loading="lazy"
+                decoding="async"
+                onerror="
+                  this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+                "
+              />
+            </div>
+            <div class="program-content">
+              <h3>Tech4Community</h3>
+              <p>
+                Empowering youth to design and develop low-cost technical
+                solutions addressing the immediate needs of local organizations
+                and the community.
+              </p>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div style="text-align: center; margin-top: 3rem">
+        <a
+          href="programs.html"
+          class="btn btn-primary"
+          style="padding: 0.8rem 2rem; border-radius: 30px"
+          >Explore All Programs &amp; Initiatives</a
+        >
+      </div>
     </section>
-
-    
 
     <!-- Call to Action -->
     <section id="contact" class="cta section-padding">
-        <div class="container text-center">
-            <h2>Join the Robotics Revolution</h2>
-            <p>Whether you're a student looking to learn, an expert wanting to mentor, or an organization aiming to partner, there is a place for you at RoboYuwa.</p>
-            <a href="mailto:roboyuwa@gmail.com" class="btn btn-primary mt-3">Partner With Us</a>
-        </div>
+      <div class="container text-center">
+        <h2>Join the Robotics Revolution</h2>
+        <p>
+          Whether you're a student looking to learn, an expert wanting to
+          mentor, or an organization aiming to partner, there is a place for you
+          at RoboYuwa.
+        </p>
+        <a href="mailto:roboyuwa@gmail.com" class="btn btn-primary mt-3"
+          >Partner With Us</a
+        >
+      </div>
     </section>
 
     <!-- Footer -->
     <footer class="footer" id="footer">
-        <div class="container footer-content">
-            <div class="footer-brand">
-                <div class="footer-logo">
-                    <img src="assets/roboyuwalogo.jpg" alt="RoboYuwa Logo" loading="lazy" decoding="async" onerror="this.outerHTML=`<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`">
-                    <span>RoboYuwa</span>
-                </div>
-                <p class="footer-description">Student-led technical community from Nepal dedicated to robotics, artificial intelligence, embedded systems, and emerging technologies.</p>
-                <div class="footer-socials">
-                    <a href="https://www.instagram.com/robo__yuwa/" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on Instagram" class="social-btn">
-                        <i class="fa-brands fa-instagram"></i>
-                    </a>
-                    <a href="https://www.facebook.com/profile.php?id=61563808928659" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on Facebook" class="social-btn">
-                        <i class="fa-brands fa-facebook"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/company/roboyuwa/posts/?feedView=all" target="_blank" rel="noopener noreferrer" aria-label="RoboYuwa on LinkedIn" class="social-btn">
-                        <i class="fa-brands fa-linkedin"></i>
-                    </a>
-                </div>
-            </div>
-
-            
-
-            <div class="footer-links">
-                <h4>Legal &amp; Policies</h4>
-                <ul>
-                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="cookie-policy.html">Cookie Policy</a></li>
-                    <li><a href="terms-of-service.html">Terms of Service</a></li>
-                    </ul>
-            </div>
-
-            <div class="footer-contact">
-                <h4>Contact Info</h4>
-                <ul class="contact-list">
-                    <li>
-                        <span class="contact-icon">
-                            <i class="fa-sharp fa-solid fa-location-dot"></i>
-                        </span>
-                        <span>Kathmandu, Nepal</span>
-                    </li>
-                    <li>
-                        <span class="contact-icon">
-                            <i class="fa-solid fa-arrow-right"></i>
-                        </span>
-                        <a href="tel:+9779749464658">+977 9749464658</a>
-                    </li>
-                    <li>
-                        <span class="contact-icon">
-                            <i class="fa-sharp fa-solid fa-envelope"></i>
-                        </span>
-                        <a href="mailto:roboyuwa@gmail.com">roboyuwa@gmail.com</a>
-                    </li>
-                </ul>
-                <div class="footer-map" role="region" aria-label="RoboYuwa location map">
-                    <iframe
-                        title="RoboYuwa location in Kathmandu"
-                        src="https://maps.google.com/maps?q=Kathmandu%2C%20Nepal&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                        loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
-            </div>
+      <div class="container footer-content">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <img
+              src="assets/roboyuwalogo.jpg"
+              alt="RoboYuwa Logo"
+              loading="lazy"
+              decoding="async"
+              onerror="
+                this.outerHTML = `<i class='fa-solid fa-image' style='font-size: 2rem; color: var(--gray-400); width: 100%; display: flex; align-items: center; justify-content: center; min-height: 100px;'></i>`
+              "
+            />
+            <span>RoboYuwa</span>
+          </div>
+          <p class="footer-description">
+            Student-led technical community from Nepal dedicated to robotics,
+            artificial intelligence, embedded systems, and emerging
+            technologies.
+          </p>
+          <div class="footer-socials">
+            <a
+              href="https://www.instagram.com/robo__yuwa/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="RoboYuwa on Instagram"
+              class="social-btn"
+            >
+              <i class="fa-brands fa-instagram"></i>
+            </a>
+            <a
+              href="https://www.facebook.com/profile.php?id=61563808928659"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="RoboYuwa on Facebook"
+              class="social-btn"
+            >
+              <i class="fa-brands fa-facebook"></i>
+            </a>
+            <a
+              href="https://www.linkedin.com/company/roboyuwa/posts/?feedView=all"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="RoboYuwa on LinkedIn"
+              class="social-btn"
+            >
+              <i class="fa-brands fa-linkedin"></i>
+            </a>
+          </div>
         </div>
-        <div class="footer-bottom">
-            <p>&copy; 2026 RoboYuwa. All rights reserved.</p>
-            <a href="#home" class="back-to-top" aria-label="Back to top">
-                    <i class="fa-solid fa-chevron-up"></i>
-                </a>
+
+        <div class="footer-links">
+          <h4>Legal &amp; Policies</h4>
+          <ul>
+            <li><a href="privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="cookie-policy.html">Cookie Policy</a></li>
+            <li><a href="terms-of-service.html">Terms of Service</a></li>
+          </ul>
         </div>
+
+        <div class="footer-contact">
+          <h4>Contact Info</h4>
+          <ul class="contact-list">
+            <li>
+              <span class="contact-icon">
+                <i class="fa-sharp fa-solid fa-location-dot"></i>
+              </span>
+              <span>Kathmandu, Nepal</span>
+            </li>
+            <li>
+              <span class="contact-icon">
+                <i class="fa-solid fa-arrow-right"></i>
+              </span>
+              <a href="tel:+9779749464658">+977 9749464658</a>
+            </li>
+            <li>
+              <span class="contact-icon">
+                <i class="fa-sharp fa-solid fa-envelope"></i>
+              </span>
+              <a href="mailto:roboyuwa@gmail.com">roboyuwa@gmail.com</a>
+            </li>
+          </ul>
+          <div
+            class="footer-map"
+            role="region"
+            aria-label="RoboYuwa location map"
+          >
+            <iframe
+              title="RoboYuwa location in Kathmandu"
+              src="https://maps.google.com/maps?q=Kathmandu%2C%20Nepal&t=&z=13&ie=UTF8&iwloc=&output=embed"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 RoboYuwa. All rights reserved.</p>
+        <a href="#home" class="back-to-top" aria-label="Back to top">
+          <i class="fa-solid fa-chevron-up"></i>
+        </a>
+      </div>
     </footer>
 
     <script src="js/script.js"></script>
-</body>
+  </body>
 </html>
-
-
-
