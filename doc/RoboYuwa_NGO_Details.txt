@@ -1,0 +1,1557 @@
+ROBOYUWA - COMPLETE NGO DETAILS (Compiled from all files in doc folder)
+
+Source documents used:
+1. 1000017260.pdf (Constitution of RoboYuwa 2082 B.S./2025 A.D.) [OCR extracted]
+2. Board-Member-Orientation_20260418_104916_0000.pdf
+3. Roboyuwa-Empowering-Youth-Through-Innovation.pdf
+
+ORGANIZATION OVERVIEW
+- Name: RoboYuwa
+- Nature: Youth-driven NGO focused on robotics, technology, research, and innovation.
+- Core purpose: Build an innovative mindset among youth, provide technical platforms, and strengthen leadership/confidence in robotics and technical research.
+- Mission: Empower youth with technology skills, creative problem-solving, and leadership to transform communities.
+- Working values found across documents: transparency, accountability, equality, inclusiveness, ethical technology use, and community impact.
+
+KEY OBJECTIVES (Constitution + Orientation)
+- Promote hands-on learning, innovation, and creativity in robotics and technology.
+- Develop leadership, teamwork, and problem-solving through projects/workshops/community programs.
+- Unite young minds for science and technology collaboration.
+- Encourage ethical and sustainable use of technology.
+- Build robotics/technology projects and participate in competitions.
+- Organize robotics/technology events and sub-events.
+
+JOURNEY & MILESTONES
+- 2024 June: Foundation of RoboYuwa.
+- 2024 Aug: First international competition participation (Technoxian World Robotics Championship).
+- 2024 Nov: Program expansion to 3 new districts; 500+ youth participants mentioned.
+- 2025 May: Aavishkar competition - secured second prize.
+- 2026 Jan: RADAR26 annual planning/event milestone.
+
+ACHIEVEMENTS & IMPACT SNAPSHOT
+- Participation in national-level robotics competitions.
+- Representation of Nepal in Technoxian World Robotics Championship.
+- School-level robotics workshops organized.
+- 40+ structured workshops/bootcamps (as stated in presentation).
+- 1,200+ youth reached (presentation impact figure).
+- Multiple regional/national awards; partnership development with schools and organizations.
+
+MAJOR INITIATIVES/PROJECTS MENTIONED
+- RoboLearn Initiative: 12-week robotics curriculum for underserved schools.
+- InnovatYouth Summit: annual youth solution showcase judged by experts.
+- Tech4Community: youth-led low-cost tech solutions for local organizations.
+
+GOVERNANCE STRUCTURE
+- Executive/Board roles repeatedly listed:
+  President, Vice-President, Secretary, Joint Secretary, Treasurer,
+  Technical & Research Head, Outreach Head, Creative Head,
+  Event Planner/Management Head, Legalities Head, Advisors, Proxy Head.
+- Tenure generally stated as 2 years.
+- Governance through General Assembly, Executive Committee, and Advisory Committee/Board.
+
+ROLE CLARITY (from orientation)
+- President: vision, coordination, external representation, major planning.
+- Vice-President: internal representation, execution follow-up, acts for president when absent.
+- Secretary/Joint Secretary: administration, minutes, reports, official communications.
+- Treasurer: financial approvals/audits/transparency and expenditure tracking.
+- Technical Head: technical decisions, research direction, workshop/project support.
+- Outreach Head: sponsorships/partnerships/external relations.
+- Creative Head: branding/social media/content.
+- Event Head: event planning, logistics, execution.
+- Legalities Head: constitutional/legal compliance and legal documents.
+- Advisors: strategic guidance.
+
+MEMBERSHIP FRAMEWORK (Constitution)
+- Categories: Tenure-based, Honorary, Volunteers, Advisors.
+- Voting: tenure-based and eligible honorary members generally one vote each; volunteers/advisors non-voting unless specified.
+- Membership fee clauses found:
+  - NPR 800 for 2-year tenure membership.
+  - NPR 200 renewal fee.
+  - Advisory/volunteers/honorary exempted from fee.
+- Membership termination/renewal/reinstatement and due-process clauses are included.
+
+FINANCE, APPROVALS, AND COMPLIANCE
+- Funding sources: sponsorships, donations, membership fees, events.
+- Expenditure approval: multiple clauses indicate 51% board agreement for approvals.
+- Project funding clause: up to NPR 5,000 can be approved by designated leadership set; beyond that requires board-level approval (as per constitution OCR text).
+- Treasurer responsible for records, reporting, annual budget, and audit flow.
+- Legal compliance references: Association Registration Act (2034) and Social Welfare Council Act (2049).
+
+MEETINGS, ELECTIONS, AND INTERNAL OPERATIONS
+- Monthly general member meetings, weekly departmental meetings, and emergency meeting provisions are described.
+- Election Sub-Committee based election model, nomination process, candidacy eligibility, secret ballot provisions, and dispute handling are included.
+- No-confidence motion and vacancy-filling provisions exist.
+- Code of conduct, reporting discipline, and interdepartmental coordination expectations are documented.
+
+IMPORTANT CONSTITUTIONAL CLAUSES (OCR-EXTRACTED)
+- Bylaws/amendments need defined approval thresholds and notice periods.
+- 10% of prize money contribution clause appears for winning competition teams.
+- Emblem usage restrictions and misuse penalties are described.
+- Duration, dissolution, amendment, interpretation, and ratification/effective date clauses are included.
+
+NOTES ON DATA QUALITY
+- The file 1000017260.pdf is image/scanned based; text below is OCR-extracted and may contain minor character/spacing errors.
+- To preserve completeness, full extracted text from all documents is attached in annex sections.
+
+
+====================================================================================================
+ANNEX A - FULL TEXT EXTRACT: Board-Member-Orientation_20260418_104916_0000.pdf
+====================================================================================================
+ROBOYUWA
+B o a r d  M e m b e r  O r i e n t a t i o n  
+ROBOYUWA
+NGO for robotics, tech, research and innovation 
+Objectives:
+Creating innovative mindset within youths,
+Providing technical platform completely dedicated for
+youths,
+Developing youths leadership and confidence in robotics
+& technical research field 
+
+ROBOYUWA
+NGO for robotics, tech, research and innovation 
+Previous Work & Achievements:
+RADAR 26,
+Participated in various national level robotics competition,
+Represented Nepal in Technoxian World Robotics Championship,
+Organized school level robotics workshop.
+
+ROBOYUWA
+R o b o Y u w a
+E v e n t
+P l a n n e r
+&  
+M a n a g e m e
+n t
+T e c h n i c a l
+&
+R e s e a r c h
+C r e a t i v e  
+O u t r e a c h  
+L e g a l
+A d v i s o r s  
+C o m m i t t e e  
+ROLES AND RESPONSIBILITIES:
+P r e s i d e n t  
+Set and monitor overall vision, goals and
+direction of organization,
+Follow the constitution and monitor its
+implementation in organization,
+Approve the tenure plan and lead the tenure,
+Represent RoboYuwa externally,
+Assign roles and ensure smooth coordination
+between teams,
+Monitor progress and suggest ideas to the team,
+Motivate board members and encourage them
+for the completion of tasks,
+Plan major projects, workshop and events.
+ROLES AND RESPONSIBILITIES:
+V i c e
+P r e s i d e n t  
+Represent RoboYuwa internally,
+Ensure the task completion of every
+departments,
+Assist president and act as acting president in
+the absence of president,
+Point out the flaws of proposed ideas,
+ROLES AND RESPONSIBILITIES:
+S e c r e t a r y  
+Performs administrative tasks of RoboYuwa,
+Represent RoboYuwa on official paper works and
+government officials,
+Ensures the proper management of meeting
+minutes,
+Prepare progress report and annual report,
+Holds the official weekly meetings,
+Proposes betterment idea for NGOs,
+Represent RoboYuwa externally,
+Approves the meeting decision of departmental
+meetings,
+Ensures the stablility of NGO.
+ROLES AND RESPONSIBILITIES:
+T r e a s u r e r
+Audits the financial records of RoboYuwa
+progressively and annually prepares the report,
+Approves the financial decisions of RoboYuwa,
+Ensures the transparency of income &
+expenditure,
+Ensure the financial stability of RoboYuwa.
+ROLES AND RESPONSIBILITIES:
+J o i n t
+S e c r e t a r y
+Maintain the meeting minutes of RoboYuwa,
+Assists secretary,
+Acts as acting secretary in the absence of
+secretary,
+Points out the possible flaws of proposed ideas,
+Ensures the stability of meeting,
+Ensures the track record of weekly board
+meeting 
+ROLES AND RESPONSIBILITIES:
+T e c h n i c a l
+&
+R e s e a r c h
+H e a d
+Leads the technical & research department,
+Approves all the technical decisions of
+RoboYuwa,
+Ensures the stability of technical department,
+Monitors the technical necessity and represent it
+in board meeting 
+ROLES AND RESPONSIBILITIES:
+O u t r e a c h
+H e a d
+Approaches external partnership of RoboYuwa,
+Ensures the stability of outreach department,
+ROLES AND RESPONSIBILITIES:
+C r e a t i v e
+H e a d
+Maintains the social media of RoboYuwa,
+Ensures the stability within creative team,
+Develops marketing strategy for RoboYuwa,
+Creates, edits and manages content for
+RoboYuwa.
+ROLES AND RESPONSIBILITIES:
+E v e n t  P l a n n e r
+&
+M a n a g e m e n t  
+H e a d
+Plans the event of RoboYuwa,
+Verifies the event proposal before organizing it,
+Manages all the event of RoboYuwa,
+Monitors all the necessity in the event.
+ROLES AND RESPONSIBILITIES:
+L e g a l i t i e s
+H e a d
+Ensures the protection of constitution of
+RoboYuwa,
+Protects laws and regulations,
+Drafts law according to the necessity,
+Prepared all the required legal documents.
+ROLES AND RESPONSIBILITIES:
+A d v i s o r s  
+Advices the entire RoboYuwa team whenever
+necessary.
+ROLES AND RESPONSIBILITIES:
+A l l
+Ensure the mutual understanding between
+RoboYuwa team,
+Being collaborative and acknowledging every
+individuals opinion,
+Ensuring the stability within organization,
+Being transparent within NGOs expenditure and
+collecting pan bill with RoboYuwa's name,
+Protecting the code of conduct and values of
+RoboYuwa,
+Being respectful with each and every individuals,
+Attending every possible meetings and providing
+suggestions there,
+Being interactive with each & every department
+people,
+I N T E R D E P A R T M E N T A L
+R O L E S
+T e c h n i c a l
+O u t r e a c h
+A p p r o a c h  d i f f e r e n t
+o r g a n i z a t i o n s  f o r
+p r o v i d i n g  t e c h n i c a l
+w o r k s h o p ,
+A p p r o a c h  s p o n s o r
+f o r  t h e  p r o j e c t s .
+P r e p a r e  t h e  w o r k s h o p
+c o u r s e  p l a n ,
+P r e p a r e  t h e  r e q u i r e d
+a m o u n t  o f  b u d g e t
+d e t a i l  f o r  p r o j e c t s
+e x c e e d i n g  b u d g e t  l i m i t
+L e g a l
+O u t r e a c h
+P r o v i d e  a l l  t h e
+d e t a i l s ,  t e r m s  a n d
+c o n d i t i o n s  o f  t h e
+s p o n s o r .
+P r e p a r e  M o U  a n d
+o t h e r  n e c e s s i t y
+d o c u m e n t s .
+E v e n t
+T e c h n i c a l
+P r o v i d e  a l l  t h e  t e c h n i c a l
+s u p p o r t  r e q u i r e d  f o r  t h e
+e v e n t ,
+M a n a g e  t h e  t e c h n i c a l
+p a r t  o f  e v e n t
+P l a n  t h e  r o a d m a p  o f
+t h e  e v e n t ,
+M a n a g e  t h e  l o g i s t i c s
+a n d  e v e r y  n e c e s s i t y
+o f  t h e  e v e n t .
+E v e n t
+C r e a t i v e  
+P r o m o t e  e v e n t  i n
+s o c i a l  m e d i a
+P r o v i d e  t h e
+n e c e s s i t y  d e t a i l s
+a b o u t  t h e  e v e n t
+T e c h n i c a l  
+C r e a t i v e  
+V e r i f y  t h e  c o n t e n t
+a n d  u p l o a d  i t  i n
+s o c i a l  m e d i a
+P r o v i d e  t e c h n i c a l
+c o n t e n t  o n  m o n t h l y
+b a s i s
+O u t r e a c h  
+C r e a t i v e  
+C r e a t e  a n d  p o s t
+c o n t e n t  o n  s o c i a l
+m e d i a
+P r o v i d e  n e c e s s i t y
+d e t a i l s  o f  s p o n s o r s
+o r  w o r k s h o p  t o  t h e
+c r e a t i v e  t e a m
+O u t r e a c h  
+E v e n t  
+A r r a n g e  t h e
+r e q u i r e m e n t s  o f  t h e
+s p o n s o r s .
+P r o v i d e  t h e  s p o n s o r
+d e t a i l s  t o  t h e  e v e n t
+t e a m .
+L e g a l
+E v e n t  
+I m m e d i a t e l y
+c o n t a c t  l e g a l
+d e p a r t m e n t  f o r  a n y
+l e g a l  p r o c e s s .
+V e r i f y  a l l  t h e  l e g a l
+p r o c e d u r e s  o f
+e v e n t .
+L e g a l
+A l l
+C o n t a c t  l e g a l
+d e p a r t m e n t  i f  a n y
+p r o b l e m  w i t h i n
+N G O  o c c u r s  o r  i f
+y o u  h a v e  a n y
+s u g g e s t i o n s  f o r
+b e t t e r m e n t  
+R e s o l v e  t h e  i n t e r n a l
+c o n f l i c t ,
+P r o t e c t  t h e
+c o n s t i t u t i o n  ,
+H e l d  l e g a l  m e e t i n g
+w i t h  e v e r y
+i n d i v i d u a l s  m o n t h l y  
+B O A R D
+R E S P O N S I B I L I T I E S  
+A l l
+S e c r e t a r y / J o i n t -
+S e c r e t a r y
+V e r i f y  t h e  m e e t i n g
+m i n u t e s
+E v e r y  d e p a r t m e n t
+i s  s u p p o s e d  t o  h e l d
+a  w e e k l y  m e e t i n g
+a n d  h e a d s  s h o u l d
+m a i n t a i n  a  p r o p e r
+m e e t i n g  m i n u t e
+A l l
+P r e s i d e n t / V i c e -
+P r e s i d e n t  
+O b s e r v e  t h e
+d e c i s i o n s  c a r e f u l l y
+a n d  f i n a l i z e  i t
+I n c a s e  o f  a n y
+e m e r g e n c y
+d e s c i s i o n  h e a d s
+s h o u l d  c o n t a c t
+p r e s i d e n t / v i c e -
+p r e s i d e n t  d i r e c t l y  
+A l l  
+T r e a s u r e r  
+T h e  e x p e n d i t u r e
+s h a l l  b e  v e r i f i e d  b y
+t h e  t r e a s u r e r
+E v e r y  e x p e n s e s  o f
+R o b o Y u w a  s h o u l d  h a v e
+a  p r o p e r  P A N  b i l l
+O u t r e a c h  
+T r e a s u r e r  
+A p p r o v e  t h e
+p a r t n e r s h i p  a f t e r
+p r o p e r  b a c k g r o u n d
+c h e c k
+A n y  f i n a n c i a l
+p a r t n e r s h i p  s h a l l  b e
+r e p o r t e d  t o
+t r e a s u r e r  
+E v e n t
+S e c r e t a r y / J o i n t -
+S e c r e t a r y
+V e r i f y  t h e  r o a d  m a p
+a n d  e v e n t  p l a n
+b e f o r e  r e l e a s i n g  i t
+A p p r o a c h
+s e c r e t a r y / j o i n t -
+s e c r e t a r y  w i t h  t h e
+e v e n t  p l a n .
+T e c h n i c a l  
+P r e s i d e n t / V i c e -
+P r e s i d e n t
+V e r i f y  t h e  a c t i v i t i e s
+a n d  p r o p o s e d  n e w
+i d e a s  
+R e p o r t  w e e k l y
+a c t i v i t i e s  
+P r o p o s e  n e w  i d e a s
+C r e a t i v e  
+V i c e - P r e s i d e n t
+V e r i f y  w e e k l y
+m e e t i n g  s t a t u s  
+R e p o r t  w e e k l y
+m e e t i n g  u p d a t e s
+L e g a l
+P r e s i d e n t  
+H e l p  L e g a l
+D e p a r t m e n t  w i t h
+t h e  r u l e s  a n d
+r e g u l a t i o n s  
+D r a f t  t h e  r u l e s  a n d
+r e g u l a t i o n s ,
+C a n  d e c i d e  p u n i s h m e n t
+t o  a n y o n e  ( i n c l u d i n g
+p r e s i d e n t )  i n s i d e  N G O  i f
+a c t i v i t i e s  g o e s  a g a i n s t
+c o n s t i t u t i o n
+A l l
+A d v i s o r
+H e l p  w i t h  b e s t
+p o s s i b l e  s o l u t i o n s  
+A s k  f o r  t h e
+s u g g e s t i o n s
+T E N U R E  P L A N N I N G  
+Agenda
+Pre membership Annual Event (Radar)1
+Grand tenure event at the end of every tenure2
+Workshop and STEAM bootcamp every year, minimum 123
+Techinical Projects, minimum 10 projects every year4
+Interdepartment knowledge sharing sessions4
+A N Y
+Q U E S T I O N S ?
+T H A N K  Y O U !
+
+====================================================================================================
+ANNEX B - FULL TEXT EXTRACT: Roboyuwa-Empowering-Youth-Through-Innovation.pdf
+====================================================================================================
+Roboyuwa: 
+Empowering Y outh 
+Through Innovation
+Presented by 
+Aman Yadav
+ Treasurer 
+
+WHO WE ARE
+Bridging the 
+Gap 
+Between 
+Y outh and 
+T echnology
+Roboyuwa is a youth-driven initiative 
+dedicated to unlocking the potential of the 
+next generation through robotics, 
+innovation, and hands-on STEM education. 
+We believe every young person deserves 
+access to tools that shape the future.
+Our Mission: To empower youth 
+with technology skills, creative 
+problem-solving, and leadership 
+4 transforming communities 
+from the inside out.
+
+OUR JOURNEY
+From Humble Beginnings to Lasting 
+Impact
+12024 June 4 Found
+Roboyuwa launched with a small group of passionate 
+youth and mentors committed to change.
+2 2024 Aug 4 First Competition
+Competed in our first international robotics 
+tournament, earning recognition and momentum from 
+Technoxian World Robotics Championship
+32024 Nov 4 Second 
+Competition
+Extended programs to 3 new districts, reaching over 
+500 youth participants. 4 2025 May  4 Aavishkar Win 
+Compete with numerous teams and bagged second 
+prize.
+52026 Jan4 RADAR26
+A growing force with partnerships  we organized our 
+yearly plan and a bold vision for the future.
+
+Why Roboyuwa 
+Matters
+The Skills Gap
+Millions of youth lack access to 
+quality STEM education, 
+widening inequality in an 
+increasingly tech-driven world.
+Limited 
+Opportunities
+Many communities have 
+talented young minds with no 
+structured platform to develop, 
+compete, or showcase their 
+potential.
+The Urgency
+The future belongs to innovators. Without early exposure, youth risk 
+being left behind in tomorrow's economy.
+
+Y outh Success Stories
+At Roboyuwa, every project is a stepping stone to a brighter future. Discover the inspiring journeys of young innovators who have 
+transformed their lives and communities through technology.
+
+ACHIEVEMENTS
+Key Achievements That Define Us
+Competition Wins
+Multiple regional and national awards in robotics, coding 
+challenges, and innovation fairs.
+Training Programs
+Delivered over 40 structured workshops and bootcamps in 
+robotics, programming, and design thinking.
+Strategic Partnerships
+Established collaborations with schools, tech companies, and 
+NGOs to extend our reach.
+Community Outreach
+Hosted open days and exhibitions that brought robotics to 
+audiences who had never seen it before.
+
+IMPACT
+Our Numbers T ell the Story
+1,200+
+Y outh Reached
+Young people directly trained or engaged across all programs since founding.
+2
+Schools Partnered
+Active partnerships with schools and learning institutions across multiple regions.
+2+
+Workshops Delivered
+Hands-on training sessions covering robotics, coding, and engineering fundamentals.
+2
+Awards Won
+Recognized at regional and national levels for excellence in youth innovation.
+Youth Reached
+ Workshops
+Year-over-year growth reflects the compounding effect of community trust, strong programming, and dedicated volunteers driving Roboyuwa's reach.
+0
+200
+400
+600
+800
+1k
+1.2k
+2019 2020 2021 2022 2023 2024
+Year
+80
+4 150 7
+320
+12
+520
+20
+850
+32
+1.2k
+41
+
+TREASURER'S REPORT
+Financial Transparency & Accountability
+How We Manage Resources
+Every dollar entrusted to Roboyuwa is managed with full transparency 
+and strategic intent. Our financial structure prioritizes maximum 
+program impact.
+Programs 4 50%
+Directly funds workshops, competitions, 
+and training materials for youth.
+Equipment 4 25%
+Robotics kits, computers, and tools that 
+power hands-on learning.
+Operations & Growth 4 
+25%
+Covers logistics, partnerships, outreach, 
+and community events.
+
+Major Projects 
+Overview
+/g903  RoboLearn 
+Initiative
+A structured 12-week 
+curriculum delivered in 
+underserved schools, 
+introducing robotics through 
+guided team challenges and 
+project-based learning.
+/g63E  InnovatY outh 
+Summit
+An annual showcase where 
+youth teams present solutions 
+to real-world community 
+problems 4 judged by industry 
+experts and community leaders.
+/g6E  T ech4Community
+A service-learning project where youth design and deploy low-cost 
+tech solutions for local organizations, blending engineering with social 
+impact.
+
+HONEST REFLECTION
+Challenges 
+We've Faced 
+4 and 
+Overcome
+Growth is never without friction. 
+Roboyuwa has navigated real obstacles 
+with honesty, resilience, and a relentless 
+commitment to our mission.
+Funding Constraints
+Limited early resources forced 
+creative problem-solving and lean 
+operations 4 sharpening our 
+execution skills.
+V olunteer Retention
+Sustaining a volunteer base 
+requires culture, recognition, and 
+purpose 4 areas we've actively 
+invested in building.
+Access & Equity
+Reaching youth in low-resource 
+environments demands adaptive 
+delivery models and strong 
+community trust.
+
+LOOKING FORWARD
+Opportunities Ahead
+Geographic Expansion
+Scale programs to few new districts, reaching an estimated 
+3,000 additional youth by 20.
+Digital Learning Platform
+Launch an online hub for robotics courses, mentorship, and 
+community 4 removing geographic barriers.
+Institutional Partnerships
+Forge formal agreements with universities, corporations, 
+and government agencies to ensure sustainable funding 
+and expertise.
+Alumni Innovation Fund
+Create a micro-grant program enabling Roboyuwa alumni to 
+launch their own community tech projects.
+
+====================================================================================================
+ANNEX C - FULL OCR TEXT EXTRACT: 1000017260.pdf (Constitution)
+====================================================================================================
+
+
+--- PAGE 1 ---
+Constitution of RoboYuwa 2082 B.S.(2025 A.D)
+ROBOYUN
+
+--- PAGE 2 ---
+iaa（Preambi)
+We, the member of RoboYuwa,
+United by our collective passion for technology,innovation and robotics, do hereby
+resolveto establish this Constitution to guide the functioning ofthis organization,
+Recognizing the importance of STEM education, creative problem solving and
+collaborative leaming in shaping a bright future for Nepal, we commit ourselves to
+fostering an environment that encourages exploration, experimentation and
+responsible innovation among youth,
+We firmly believe in the principles of transparency,accountability,equality and
+inclusiveness and pledge to uphold these values in all our undertakings,
+With deep respect for Nepal's cultural heritage, laws and ethical values we aim to
+utilize science and technology as instruments for social progress, sustainability and
+national development,
+Guided by these ideals, we hereby adopt this RoboYuwa Constitution to ensure our
+continued dedication to learning, innovation and community empowerment
+aidy
+
+--- PAGE 3 ---
+Part-1:
+General Provisions
+RoboYuwa
+1.Article l: Name: (1) The organization shall be known as RoboYuwa.
+2. Article 2:Objectives: (2) 1.To promote hands-on learning, innovation, and
+creativity in the field of robotics and technology,
+2.To develop leadership, teamwork, and problem-solving skills through projects,
+workshops, and community activities,
+3. To unite young minds in collaboration and knowledge sharing for the advancement
+of science and technology,
+4. To encourage ethical and sustainable use of technology for community
+benefit,
+5. To build various robotics & technology related projects,
+6. To take part in competitions and showcase the projects,
+7.To organize robotics & technology related events and sub events.
+belins
+An
+aily
+
+--- PAGE 4 ---
+Part 2:Membersf
+3.Article3:Membership
+3.1 Categories of Membership
+a. Tenure-Based Members:
+Individuals admitted on a tenure basis upon payment of the prescribed membership
+fee,Tenure-based members shall have full voting rights and may hold official
+positions within-tfenganization.
+Lelina
+ardya
+
+--- PAGE 5 ---
+b.HonoraryMembers:
+Distinguished individuals who have made significant contributions in the fields of
+robotics, STEM education,innovation or community service,They shall be invited by
+the Executive Committee and endorsed by the Board, Honorary members shall enjoy
+all privileges except voting rights and executive authority unless otherwise specified.
+c. Volunteers:
+Individuals orgroups interested in contributing their time, skills or services to the
+organization's programs and activities. Volunteers shall not possess voting rights but
+may participate in meetings, events and projects as designated by the Executive
+Committee.
+d,Advisors:
+Subject-matter experts or professionals appointed by the Executive Committee to
+provide strategic, technical or policy guidance. Advisors shall not possess voting
+rights unless separately designated as Honorary Members.
+pelinn
+Joidlyn
+
+--- PAGE 6 ---
+ROBOYUWA
+3.2: Voting Rights
+For the purposes ofelections, policy formulation and organizational decision making,
+the following voting structure shall apply:
+1. Honorary Members:
+Honorary Members shall possess one (1) vote each provided they are officially
+endorsed and recorded in the organization's registry.
+2.Tenure-Based Members:
+Tenure-Based Members shall possess one (1) vote each and may participate fully in
+elections, motions, amendments and all decision-making processes.
+3.Volunteers and Advisors:
+Volunteers and Advisors shall not possess voting rights. However, they may attend
+4.Voting Restrictions:
+Only members who have completed the required registration process and are in good
+standing with the organization may cast a vote.
+5.Equality of Vote:
+Every eligible voter shall have equal voting power.No member may hold additional
+votes by virtue of position, seniority, or contribution.
+Lelia
+ailya
+
+--- PAGE 7 ---
+3.3:Termination and Renewal
+a. Grounds for Termination:
+Membership may be terminated upon resignation, death, misconduct, violation of the
+ConstitutionorBylaws.Failuretomeet membershipobligations or non-compliance
+with organizational rules, directives, or decisions.
+b.Renewal of Membership:
+Annual members may renew their membership at the beginning of each fiscal year by
+paying the prescribed membership fee and completing any required documentation.
+c.Loss of Rights UponTermination:
+Any member whose membership is terminated shall immediately lose all rights,
+privileges, voting powers and representation within the organization.
+d. Reinstatement of Membership:
+Reinstatement ofa terminated membership may be considered by the Executive
+Committee upon submission of a formal written request by the concerned individual
+and payment of any outstanding dues if applicable.
+e. Due Process:
+No membership shall be terminated for disciplinary reasons without providing the
+concerned member an opportunity to present clarification or defend their case before
+the Executive Committee.
+Lelia
+ouidye
+
+--- PAGE 8 ---
+Part 3: Governance and Organizational Structure
+ROBOYUW
+4. Article 4: Governance and Executive Committee
+R397878
+Lelna
+aielya
+
+--- PAGE 9 ---
+Article 4.1:Composition of the Executive Committee
+The overall affairs,administration and management of RoboYuwa shalle
+an Executive Committee.The Executive Committee shall consistofthobowoing
+office bearers:
+1.President
+2.Vice-President
+3. Secretary
+4. Treasurer
+5.JointSecretary
+6.Technical and Research Head
+7.Legalities Head
+8.Outreach Head
+9.Creative Head
+10.EventManagementHead
+11.Proxy Head
+Additional Provisions:
+a. The Executive Committee may create additional sub-committees or designate
+assistant roles as necessary for efficient functioning.
+b.The organization may constitute an Advisory Committee comprising subject-
+strategic planning, policy formulation and capacity building.
+c. The Advisory Committee shall function in a consultative capacity and shall not
+possess voting rights unless otherwise specified.
+beline
+idya
+
+--- PAGE 10 ---
+(caretaker)
+4.2:Tenure and Election
+a Tenure of Office:
+The tenure of all Executive Committee members shall be two (2)years from the date
+of theirelection or appointment, unless otherwise dissolved or removed according to
+this Constitution.
+b. Election Timeline:
+Elections for the incoming Executive Committee shall be conducted within thirty (30)
+days following the completion of the existing tenure to ensure continuity of
+governance.
+c, Voting Eligibility:
+All Honorary Members and Tenure-Based (Annual) members shall exercise their
+voting rights in accordance with Clause 3.2 of this Constitution.
+d, Eligibility for Candidacy:
+Candidacy for any Executive position shall be open to Honorary Members or Tenure-
+Based Members who demonstrate relevant technical knowledge, leadership
+experience or educational qualifications aligned with the responsibilities of the
+position.
+e, Election Procedures:
+All elections shall be conducted in a transparent, impartial and democratic manner
+under the supervision of a designated Election Sub-Committee, which shall be
+formed and approvebythe Executive Committee.
+Lelinu
+idya
+11
+
+--- PAGE 11 ---
+f. Caretaker Provision:
+Upon completion of tenure, the outgoing Executive Committee shall funetion
+caretaker committee until the newly elected committee officially assumes gffic
+ROBOYUW
+g.Vacancy Handling (Optional Addition):
+In the event ofresignation, removal or vacancy in any Executive position, the
+Exccutive Committee may appoint an interim office bearer until the next scheduled
+election.
+3. Hfad:
+Lelina
+aiya
+12
+
+--- PAGE 12 ---
+pelina
+13
+
+--- PAGE 13 ---
+Selina
+14
+
+--- PAGE 14 ---
+4.3:Duties and Responsibilities of OfficeBearers
+1. President:
+a. Provides overall leadership, direction, and supervision of the orga
+b.Presides over all official meetings.
+d. Ensures implementation of organizational objectives and resolutions passed by the
+Executive Conmittee or General Assembly.
+2.Vice-President:
+a. Acts on behalf of the President in their absence.
+b. Assists the President in coordinating inter-departmental activities and special
+projects.
+c.Performs duties assigned by the President or the Committee.
+3. Secretary:
+a. Maintains all official records, minutes, correspondence and membership lists.
+b. Prepares periodic and annual progress reports.
+c. Submits required documents and reports to relevant government authorities and the
+Social Welfare Council.
+d. Serves as the communication channel between the Executive Committee and the
+Board.
+4.Joint Secretary:
+a. Managing the meeting minutes.
+b.Assisting the Secretary.
+5. Treasurer:
+irces.
+a. Manages and monitors the organization's finangai
+b.Maintains accurate records of receipts and expentultue
+c.Prepares the annual budget and audited finangiatffeparsn
+elira
+feudya
+15
+
+--- PAGE 15 ---
+d.Ensures transparency,accountability and financial compliance.
+6.Technical and Research Head:
+a, Leads all research, innovation,and technical training progra
+b. Supervises the design, development, and execution of robotig
+c.Promotes collaboration with educational and research institlibwuwa
+7.Legalities Head:
+a.Ensuresfull compliance with Nepali laws,governmental regulations and this
+Constitution.
+b. Oversees documentation related to registration, MoUs, contracts and policy matters.
+c. Provides legal guidance to the Committee and represents the organization in legal
+orprocedural affairs.
+8.Outreach Head:
+a. Manages public relations, media communication, and community engagement.
+b.Coordinates partnerships with schools, universities, NGOs, and government entities.
+c. Promotes Robo Yuwa's objectives through outreach campaigns and collaborations.
+9.CreativeHead:
+a.Oversees branding, design, content creation, publications, and media materials.
+b. Maintains a cohesive visual and communication identity in line with Robo Yuwa's
+mission and values.
+10.Event Management Head:
+a.Plans,coordinates,and executes workshops, competitions,exhibitions and
+conferences.
+b.Ensures timely implementation and proper logistics of all events.
+c. Works in coordination with other departments for smooth execution of programs.
+
+--- PAGE 16 ---
+11. Proxy Head:
+a.Act on behalf of the main head in all official matters whenever thtoain head is
+unavailable, cnsuring that the organization's work continues smocy
+thout
+interruption,
+b.Make informeddecisions within the scopeof authoritydelegated by Rewma Head,
+while keeping in mind the vision,policies and objectives oftheorganization
+c. Represent the organization, its values, and its members in meetings, conferences or
+official events,maintaining professionalism and promoting a positive image
+d.Oversee ongoing projects,ensure tasks are completed on time,coordinate with
+team members and provide guidance to maintain efficiency and effectiveness in all
+activities.
+4.4:Voteof NoConfidence
+a. A Vote of No Confidence may be initiated against any Executive Committee
+member after one (1) year of their tenure if they are found incompetent, inactive, or
+misusing authority.
+b,The motion must be formally proposed and seconded by at least one-third (1/3)of
+the combined Executive and Board members.
+c. The motion shall be passed if supported by at least two-thirds (2/3) of the combined
+members present in a special meeting called for that purpose.
+Pelinu
+aielyu
+17
+
+--- PAGE 17 ---
+d. Upon approval of the motion, the concerned member shall vacate the office
+immediately.
+e.A new election for the vacant position shall be conducted within thirty
+of
+removal.
+8.4
+ROBOYUN
+Article4.5:FillingofVacancies
+a. In the event of a vacancy in any Executive Committee position due to resignation,
+removal, death, incapacity, or any other reason the Executive Committee shall
+appoint an acting officer from among eligible members to temporarily fulfill the
+responsibilities of the vacant position until a formal election is held.
+b. The acting appointment shall not exceed ninety (90) days without a formal
+election or confirmation by the General Assembly.
+c. The acting officer shall have all powers and responsibilities of the position except
+where otherwise restricted by this Constitution.
+d. If the vacancy occurs within three (3) months of the end of tenure the Executive
+Committee may at its discretion allow the position to remain vacant until the next
+regular election.
+Melia
+18
+
+--- PAGE 18 ---
+Article 4.6: Authority and Powers of the Executive Committee and
+Board
+a,Joint Administration:
+All offices, operations, programs and resources of Robo Yuwa shall be administered
+jointly by the Executive Committee and the Board of Advisors in accordance with
+this Constitution,
+b,Executive Committee Responsibilities:
+The Executive Commitee shall have the anthority and responsibility for policy
+implementation,programxution,dailyniprationandfinancialmanagemen
+ensuring alignment with the organization's Objectiges.
+belins
+
+--- PAGE 19 ---
+c. Board of Advisors Responsibilities:
+Their recommendations are advisory unless otherwise specified in this Constiuion
+ROBOYUW
+d. Major Decisions:
+Any major decision regarding organizational structure, constitutional amendments or
+dissolution of Robo Yuwa shall require prior approval from the General Assembly.
+e. Transparency and Collective Functioning:
+All authorities shall function transparently,collectively and in full compliance with
+the organization's objectives, ethical standards and the laws of Nepal.
+f.ConflictResolution (Optional Addition):
+In case of a disagreement between the Executive Committee and the Board the
+General Assembly shall serve as the final decision-making authority.
+Part 4: Finance and Resources
+5.Article5:Finance
+beira
+aiia
+
+--- PAGE 20 ---
+5.1:Sources
+a. The fund of this NGO solely depends upon the sponsorship, donations, NGO
+membership fee and NGO events.
+5.2: Income, Expenditure, and Approval
+The income and expenditure of the NGO should be properly recorded by the treasurer but
+the expenditure should only be approved if 51% if the board members agree.
+a. In case of any disagreemcat between the board members or the tie between the
+opinions of board memper thedecision solely lies in the hand of president and
+secretary,
+belina
+Failye
+21
+
+--- PAGE 21 ---
+b.Incaseofdisagreement continuesbetween president and scretary as wellthenthe
+decision is handed over to Advisory Commitee where 51% of the advisors need to
+have mutual decision,
+c.In case if there is a disagreement or tie of opinion between theadvsor
+the
+expenditure on that particular subject is not approved.
+ROSOYUWA
+5.3: Partnerships and Collaborating Organizations
+a. Robo Yuwa can have long term partners for all the events of the tenure and short
+term partners for particular events.
+5.4:Responsibility for Fundraising
+a. The outreach department along with the president is responsible for gathering
+sponsors and raising funds for Robo Yuwa.
+5.5:MembershipFee
+a.The membership fee is Rs. 800/-NPR for a tenure of two years.
+b.The renewal membership fee is Rs.200/-NPR.
+c. The Advisory Committee, Volunteers and Honorary Members are not required to
+pay the membership fee.
+d. Note: This is the default membership fee but it can be changed during any tenure
+with the agreement of 80% ofthe board members.
+6.Article 6: Organizational Structure and Governing Bodies
+GeneralAsseml
+pelira
+aidya
+22
+
+--- PAGE 22 ---
+T.Hee fa (Advisory Committee) : Hana af fad
+Slia
+aidyu
+
+--- PAGE 23 ---
+6.2:GeneralAssembly
+a. The General Assembly shall include all members possessing yous
+b. The Assembly shall convene at least once every fiscal year at a titfaend place
+determined by the Executive Committee.
+c. A special meeting of the General Assembly may be called upon:
+. A written request by at least one-third (1/3) of total voting members, or
+. A decision of the Executive Committee when urgent matters arise.
+d.The powers and functions of the General Assembly shall include:
+• Approving annual reports, budgets, and audited financial statements.
+: Electing or removing Executive Committee members in accordance with this
+Constitution.
+· Approving or amending the Constitution or major organizational policies.
+· Deciding on matters related to long-term plans, property, finance, or dissolution of
+theorganization.
+e.The quorum for a General Assembly meeting shall be one-third (1/3)of total voting
+members.
+f If the quorum is not met, the meeting may be postponed and reconvened within
+fifteen (15) days, after which it shall be considered valid regardless of attendance,
+provided due notice has been given.
+g. All decisions of the General Assembly shall be passed by a simple majority, except
+where otherwise specified in this Constitution.
+elina
+ailyu
+24
+
+--- PAGE 24 ---
+6.3:Executive Committee
+a.The Executive Committee shall operate under the authority and policy direction of
+the General Assembly.
+b. It shall be responsible for implementing resolutions, managing administrative and
+financial affairs, coordinating with government and partner organizations and
+ensuring proper operation of all programs and activities.
+c, The quorum for Executive Committee meetings shall be fifty percent (50%) plus
+one (l) of the total Executive members.
+d.Decisions shal be made by a simple majority of members present in case of a tie,
+the President shall cast the deciding votey
+aidye
+25
+
+--- PAGE 25 ---
+nn-binding
+oservers
+6.4:AdvisoryCommittee
+a. The Executive Committee may appoint an Advisory Board consisting of
+distinguished national or international experts in fields such as robotics, STEM
+education, law, management, or social development.
+b. The Advisory Board shall function in a consultative and honorary capacity,
+providing non-binding recommendations to strengthen RoboYuwa's vision, programs,
+and institutional development.
+beln
+icyu
+26
+
+--- PAGE 26 ---
+e. Minutes of all meetings shall be duly recorded signed by the President and
+Secretary and preserved as official records of the organization.
+management defining their scope and duration in writing.
+nbinding
+6.4:AdvisoryCommittee
+a.The Executive Committee may appoint an Advisory Board consisting of
+distinguished national or international experts in fields such as robotics, STEM
+education, law,management, or social development.
+b. The Advisory Board shall function in a consultative and honorary capacity,
+providing non-binding recommendations to strengthen RoboYuwa's vision, programs,
+and institutional development.
+c. The term of the Advisory Board shall be determined by the Executive Committee,
+and members may be reappointed based on performance and organizational need.
+d. The Advisory Board may participate in General Assembly meetings as observers
+and provide expert opinions when requested.j
+belina
+icyu
+26
+
+--- PAGE 27 ---
+7. Article 7: Election Rules
+7.1: Election Authority
+a. All internal elections of RoboYuwa shall be conducted under the supervision of an
+independent Election Sub-Committee formed by the Executive Committee at least
+forty-five (45) days before the General Assembly meeting.
+b.The Election Sub-Committee shall consist of three (3)neutral members who are not
+contesting in the election.
+c. The Sub-Committee shall oversee nomination, voting, counting and declaration of
+results ensuring transparency and fairness.
+d. Any disputes related to the election shall be resolved by the Election Sub
+Committee whose decision shall be final unless appealed to the General Assembly
+aiely
+
+--- PAGE 28 ---
+7.2: Eligibility for Candidacy
+a. Only Honorary Members and Tenure Based Members who have maintained active
+membership for at least one (l) year and are in good standing may contest in the
+election.
+b. Members holding any unpaid dues or disciplinary issues shall not be eligible.
+c. A single member may contest for only one position per election term.
+7.3:Election Procedure
+a. The Election Sub Committee shall annotinc t
+the election date, positions and
+nomination deadlines at least thirty (30x daysbefore the General Assembly.
+AaBelina
+28
+
+--- PAGE 29 ---
+b. Candidates must submit a formal nomination form along with their mbership
+verification anda brief statement of intent.
+c.If only once valid nomination is received for a position that candidale
+declared elected unopposed.
+d. Voting shall be done through secret ballot physical or electronic as determined by
+the Election Sub Committee.
+e. Votes shall be counted in the presence of at least two (2) observers from the
+General Assembly.
+f. The Sub-Committe shall declare results within twentyfour (24) hours of vote
+counting.
+7.4:Tenureand Transition
+a. Elected members shall assume office immediately after the official handover from
+theoutgoing Executive Committee.
+b.The outgoing committee shall facilitate a smooth transition, handing over all
+documents, assets, and responsibilities within fifteen (15) days of election results.
+elirr
+29
+
+--- PAGE 30 ---
+OSOYUW
+7.5:DisqualificationorDispute
+a. A candidate found to have engaged in malpractice, bribery, or misrepresentation
+shall be disqualified immediately.
+b.Any election-related complaint must be submited in writing within seven (7) days
+ofresult publication.
+c. The Election Sub-Committee shall investigate and resolve the ssue within fifeen
+(15) days.
+8. Article 8: Sponsorship, Partnership, and Donations
+belins
+Faiclye
+30
+
+--- PAGE 31 ---
+ROBOYUW
+8.1:SponsorshipPolicy:
+a.Robo Yuwa may accept financial, material or technical sponsorships from
+individuals, institutions,corporations or agencies provided such sponsorships align
+with the organization'sobjectives anddonot compromise its independence orvalues.
+b. All sponsorship agreements shall be approved by the Executive Commttee and
+recorded officially.
+c. Sponsors shall not receive any form of control, voting rights or decision-making
+authority within the organization.
+funds or materials, subject to annual audit and reporting.
+NGO)NGOINGO
+8.2: Partnership and Collaboration:
+a. Robo Yuwa may collabpfate with government agencies, educational institutions,
+NGOs,INGOs and privale entites for research, innovation or social impact programs.
+belira
+ailya
+31
+
+--- PAGE 32 ---
+b.All partnerships shall be formalized through written Memorandum of
+Understanding (MoUs) or agreements specifying the scope,dbralion and
+responsibilities of each party.
+c.No partnership shall be entered into with any organization involvedoewugyities
+contrary to the laws of Nepal or the ethical standards of Robo Yuwa.
+8.3: Donations and Grants:
+a. Robo Yuwa may receive donations, grants or contributions from domestic or
+international sources provided they comply with Nepal's Social Welfare Council
+regulations and foreign aid policies.
+b. All donations shall be used strictly for organizational objectives and duly recorded
+in the financial register,
+c. The Treasurer shall ensure that every donation or grant is reported to the Executive
+Committee and reflected in the annual financial report.
+(Association RegistratigAotfGaTRRo(SocialWelfareCouncil Act)
+Vaulya
+32
+
+--- PAGE 33 ---
+8.4: Ethical and Legal Compliance:
+a.No sponsorship,partnership,or donation shall be acceptedfrom entities ekgaged in
+activities harmful to national interests, environment or social harmony.
+b. The organization shall comply with all relevant laws of Nepal, including the
+Association Registration Act, 2034 and the Social Welfare Council Act, 2049
+regarding external funds and collaboration.
+c. Misuse or mismanagement of sponsorship or donation funds shall result in
+disciplinary action including removal from office and legal proceedings as per Nepali
+law.
+Part 5: Operations and Programs
+9.Article9:Operating Procedures of Robo Yuwa
+Selina
+aiclya
+33
+
+--- PAGE 34 ---
+9.1:Organizational Functioning
+a.All operations of Robo Yuwa shall be conducted in accordance with this
+Constitution, decisions of the General Assembly and directives of the kecutive
+Committee.
+b.Theorganization shall function onthe principlesof transparencyeyntability
+inclusiveness and efficiency.
+e. No individual member shall act or make commitments on behalf of Robo Yuwa
+without prior written authorization from the Executive Committee.
+d. The organization shall operate through official communication channels including
+registered email, written notice or certified meeting minutes.
+9.2: Meetings and Decision-Making:
+a. All goverming bodies shall meet regularly as defined in Articles 3 and 4.
+b. Agendas for meetings shall be circulated at least seven (7) days in advance by the
+Secretary.
+c. Emergency meetings may be called with at least twenty-four (24) hours notice if
+deemed urgent by the President or Secretary.
+d. Resolutions shall be adopted by simple majority except where a higher threshold is
+required.
+e. All decisions shall bemesorded in official minutes signed by the President and
+Secretary and archived for permanent record.
+belinn
+aidy
+34
+
+--- PAGE 35 ---
+9.3: Documentation and Reporting:
+a. The Secretary shall maintain up-to-date records of all activities, correspondence,
+decisions and membership data.
+transactions, receipts and expenditures.
+c. Each Head shall prepare quarterly departmental reports summarizing achievements,
+challenges and plans.
+d. An Annual Report summarizing all organizational, technical and financial activities
+shall be presented to the General Assembly and submitted to the relevant government
+authorities.
+9.4Program Implementation:
+a, All projects and programs shall be designed, approved and implemented through
+the Executive Committee or designated Sub-Committees.
+b. Every project shall include a clear objective, timeline, budget and responsible
+personnel.
+c. Progress ofongoing projeu shall be reviewed at least once every quarter.
+aidy
+35
+
+--- PAGE 36 ---
+written
+Memorandum of Understanding (MoU)approvedby the Executive Co
+9.5 Internal Communication and Coordination
+departments,
+b. Internal communication shall prioritize efficiency,respect and professionalism.
+c. All major organizational communications and announcements shall be issued only
+through official channels authorized by the Creative or Outreach Head.
+9.6:CodeofConduct:
+a, All members and office bearers shall uphold integrity, respect, discipline and non-
+discrimination in their conduct.
+b, Misuse of authority, resources or confidential information shall be strictly
+prohibited,
+c, Violation of the code of conduct shall result in disciplinary action, which may
+include warning, suspension, or termination as decided by the Executive Committee.
+beina
+aidys
+36
+
+--- PAGE 37 ---
+9.7: Monitoring and Evaluation:
+a.The Executive Committe shall periodically monitor ongoing activities and
+evaluateprogram outcomes.
+b. Findings and recommendations from evaluations shall be used to improve
+operational efficiency and program quality.
+c. Independent evaluations may be commissioned when deemed necessary by the
+Board or required by donors or regulatory bodies.
+10.Article 10: Projects
+10.1:Defination
+a. The Projects in this article refers to technical & research projects, events
+conducted by RoboYuwa and competitions where RoboYuwa takes part.
+suin
+37
+
+--- PAGE 38 ---
+10.2: Approval and Funding
+Any technical & research projects shall be approved first by the technical & research
+head before starting the project. The materials and material cost (if necessary
+maximum upto NRS. 5,000/-, exceptionally in case there is need of more money there
+needs to be agreement of at least 51% of board members) the project is covered by the
+RoboYuwa after the approval of the project.
+a. The technical & research head, president (or secretary). (Note: vice-president only
+if president is unavailable) and treasurer together can approve the material cost of
+upto NRS. 5,000/- the technical head shall not approve to buy the materials that is
+already available on the inventory and is not being used in other projects,
+b. In case there is a need for more money the approval shall be granted by at least
+51% of the board member, if the expenses are not approved byboard the project is not
+dismissed but instead the group or individual doing the project are supposed to find a
+sponsor.(For this type of project outreach department are not supposed to search for
+sponsor unless decided on the board meeting),
+c.In case the team doing projects found the sponsor using RoboYuwa's name all the
+materialsbought for the project belongs to RoboYuwa and cannot be misused.
+belins
+Vcuilya
+
+--- PAGE 39 ---
+ROaOYUWAS
+president (or secretary).
+10.4:EventFunding
+a. Any events organized by RoboYuwa for members and the general public are
+funded by the funds raised by RoboYuwa.
+b. Event planning and execution shall follow the guidelines and approval of the
+Executive Committee to ensure transparency and proper resource utilization.
+c. All event-related expenses must be documented and reported to the Treasurer and a
+post-event report shall be submitted to the General Assembly for review.
+delina
+
+--- PAGE 40 ---
+Part 6: Legal and Regulatory Matters
+11.Article ll:Meetings
+11.1:NGOGeneral Members Meetings:
+a. Regular general members meetings should be held no less than once in each month,
+b. The information of these meetings should be circulated two (2) days prior to the
+meeting,
+c. In case of any urgency the president or secretary can call emergency meetings but
+the information shall be circulated at least twelve (12) hours before.
+eina
+
+--- PAGE 41 ---
+week,
+ee(1)
+meeting,
+shall be circulated at least twelve (12) hours before,
+11.3:Department Meetings:
+a, Each department head should hold at least one (1) meeting in each week,
+b. The information of these meetings should be circulated one (1) day prior to the
+meeting,
+c. For these types of meetings, department heads should submit their meeting minutes
+to the joint-secretary and secretary.
+Lelina
+crilyen
+
+--- PAGE 42 ---
+12.Article12:Officers
+ROBOYUA
+Article 12: Officers
+12.1: The officers of this NGO shall be president, vice-president, secretary and treasurer,
+12.2: There shall be only:
+a.One(1)President
+b.One(1)Vice-President
+e, One (1) Secretary
+d. One (1) Treasurer
+12.3: Officers shall be members in good standing and shall serve for a term of two (2)
+years until the new board members have been elected.
+
+--- PAGE 43 ---
+3. 87RT 83:
+83.8
+13.1:Composition:
+The control and supervision of RoboYuwa's activities shall rest in a Board of
+Directors consisting of all elected officers and three (3) directors chosen from
+members in good standing.
+13.2: Responsibilities:
+a. The Board shall oversee all operational, administrative, and financial matters of
+RoboYuwa.
+b. It shall ensure the execution of approved policies and review major decisions
+before presenting them to the General Assembly for approval.
+improper decisions, and fll any vacanieiestsneeded.
+d.It shall present an annualreporteRobowa's operations and achievements tothe
+General Assembly and partners.
+Lelina
+43
+
+--- PAGE 44 ---
+ROBOYUWAO
+14.Article 14: Membership Commitment: (14)
+1. Actively contribute to the organization's objectives and participate in its programs,
+projects and events.
+2. Uphold the ethical standards, integrity and reputation of RoboYuwa in all personal
+andprofessional conduct.
+3.Foster a positive, inclusive and collaborative culture within the organization and in
+all external interactions,
+4. Respect the decisions of the Executive Committee Board of Directors and
+General Assembly while exercising the right to provide constructive feedback.
+5. Maintain confidentiality of internal matters sensitive information
+and
+organizational records
+beira
+otilyd
+c18
+44
+
+--- PAGE 45 ---
+6.Complywithallrelevantlaws,regulationsandorganizationalpolicicaplicable
+their membership.
+7.Encourage and support new members,mentorship andknowledgesha
+within
+ROMOYUWAO
+the organization.
+8.Participate in fundraising, sponsorship or outreach activities as appropriate to
+further the mission of RoboYuwa.
+does not conflict with RoboYuwa's interests or values.
+and disciplinary action in accordance with the organization's bylaws.
+15.Article15:ByLaws
+
+--- PAGE 46 ---
+organization.
+not takeeffect.
+d. Approval of any new bylaw or amendment requires at least a two-thirds (23)
+majority of the members present where quorum is met.
+e.The Board shall maintain transparent documentation of all bylaws and amendments
+and make them available to all members.
+fThe bylaws shall clearly define roles, responsibilities, operational procedures and
+methods for dispute resolution.
+g.Members shall be notified at least 15 days prior to the implementation of any new
+bylaw or amendment so they can understand and comply with it.
+h. Any disputes or ambiguities arising from the bylaws shall be referred to the Board
+of Directors whose interpretation shall be final unless overturned by the General
+Assembly inaccordancewith theConstitution.
+i If any member or team of Robo Yuwa participates in a competition and wins 10%
+of the total prize money shall be contributed to the club.
+j. In case of non-compliance or misuse regarding the bylaws the Board may take
+necessary action which may inchde warning, suspension or termination of
+membership.
+lira
+ailya
+
+--- PAGE 47 ---
+16.Article16:Emblem:(10)
+1. The official emblem of RoboYuwa shall symbolize technology, innovation and
+youth collaboration reflecting the mission and vision of the organization.
+2. The emblem shall be used exclusively by members and authorized representatives
+of RoboYuwa, unauthorized use is strictly prohibited.
+3. Members may display the emblem respectfully on official documents, uniforms,
+event materials, projects and presentations ensuring proper representation of the
+organization.
+4. The emblem must not be altered, distorted or modified in any manner that
+compromises its integrity, design, or meaning.
+5. Any commercial, promotional or third-party use of the emblem requires prior
+written approval from the Executive Committee or Board of Directors.
+6. Misuse, unauthorized replication or distribution of the emblem for personal gain or
+non-official purposes may result in disciplinary action including suspension or
+termination ofmembership.
+belina
+￥47
+
+--- PAGE 48 ---
+g10. 7 219: 3af9: (310)
+17.Article17:Duration: (17)
+1. RoboYuwa shall continue to operate as a legal and functional organization until one
+of thefollowing occurs:
+a. A formal decision by the General Assembly to dissolve the organization passed by
+two-thirds (2/3)majority of voting members present.
+b. Withdrawal, cancellation or revocation of registration by relevant government
+authorities or regulatory bodies.
+2. In the event of dissolution all organizational assets including financial resources,
+equipment, intellectual property and rights to the RoboYuwa name and emblem shall
+beformally relinquished.
+belina
+aidye
+
+--- PAGE 49 ---
+RoboYuwa in case of dissolution.
+7. Provisions for continuity of key programs or knowledge transfer may be made if
+possible to ensure the mission of RoboYuwa continues through other aligned
+organizations or initiatives.
+na
+aiye
+
+--- PAGE 50 ---
+ROBOYUWAO
+in theNepali calendar.
+fiscal schedule.
+3. The Treasurer or the designated financial officer shall ensure that all income and
+expenditures are properly recorded and reported within the respective fiscal year.
+4. The annual audit shall be conducted by a certified auditor or an authorized
+auditing body and its report shall be presented to the General Assembly for approval.
+5. The Executive Committee shall be responsible for ensuring compliance with the
+Government of Nepal's standard fiscal regulations and any directives issued by
+relevantauthorities.
+6. Any change to the fiscal year shall require prior approval from the General
+Assembly and notification to the concerned registration authority.
+ina
+cikya
+
+--- PAGE 51 ---
+19.Article19:Amendments
+thirds (2/3) majority of members present at a General Assembly meeting where
+quorum is met.
+a. Proposed amendments must be submitted in writing to the Secretary at least 30
+days prior to the General Assembly meeting.
+b. All members shall be notified of the proposed amendments at least 15 days before
+the meeting along with an explanation of the rationale.
+c. The General Assembly may discuss, debate and suggest modifications to the
+proposed amendments before voting.
+d. Amendments approved by the General Assembly shall be recorded in the official
+Constitutiondocument and communicated to all members.
+e. Any amendment shall not conflict with the fundamental objectives, values or legal
+compliancerequirements of Robo Yuwa.
+f. In case of disagreement or ambiguity regarding an amendment the Board of
+Directors shall provide clarification and the General Assembly shall have the final
+decision.
+Selina
+51
+
+--- PAGE 52 ---
+20.Article20:Interpretation efleet immediasely upon wppiroval byt
+In case of ambiguity or dispute regarding the interpretation of this Constitution, the
+Board of Directors shall have the authority to interpret the provisions. Their
+interpretation shall remain final unless overturned by a two-thirds (2/3) majority of
+the General Assembly.the rteetive date.
+a. Any member may request clarification regarding the interpretation of specific
+clauses or provisions by submitting a written request to the Board.ws
+b. The Board shall provide written clarification to all members within a reasonable
+time.
+c, Interpretations by the Board shall align with the objectives, values and legal
+compliance requirements of Robo Yuwa.
+d, The General Assembly retains the right to review, discuss, and override the Board's
+interpretation with a two-thirds (2/3)majority vote.
+e. All interpretations and decisions shall be documented and annexed to the
+Constitution as official records.
+ina
+aidya
+
+--- PAGE 53 ---
+21.Article2l:Ratification and Effective Date
+a.This Constitution shall come into effect immediately upon approval by the General
+Assemblyon[
+b. All members, officers, and governing bodies shall be bound by the provisions of
+this Constitution from the effective date.
+c. Any previous rules, regulations or constitutions inconsistent with this document
+shall be considered null and void upon its adoption.
+d, This Constitution shall remain the supreme governing document of Robo Yuwa
+unless amended according to Article 19.
+e, The undersigned members of the Board of Directors hereby ratify and adopt this
+Constitution on behalf of Robo Yuwa.
+
+--- PAGE 54 ---
+Signatures/
+President/378T&:
+Secretary/faa:
+Board Members/:
+Tesury Tanesr Am
+Wce Presidlent chanebket
+creative Head Arshia
+54
