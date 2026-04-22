@@ -1,64 +1,78 @@
-<div align="center">
-    <img src="assets/favicon.png  " alt="RoboYuwa Logo" width="200">
-    <h1>RoboYuwa Official Website</h1>
-</div>
+# RoboYuwa Official Website
 
-## Overview
+Static website for RoboYuwa, a youth-driven NGO in Nepal focused on robotics, research, and innovation.
 
-Welcome to the official repository for the RoboYuwa website. RoboYuwa is a youth-driven non-governmental organization based in Nepal, dedicated to empowering the next generation of technology leaders through hands-on robotics, research, and innovation.
+## Tech Stack
 
-This repository contains the source code for our public-facing website, providing comprehensive information about our mission, vision, team structure, initiatives, and organizational governance.
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
-## Project Structure
+## Current Structure
 
-The website is built using strict semantic standards and a lightweight technology stack, ensuring rapid deployment, accessibility, and ease of maintenance.
+### Core pages
 
-*   **Core Pages:**
-    *   `index.html`: The main landing page detailing our mission, vision, and major initiatives (RoboLearn, InnovatYouth Summit, Tech4Community).
-    *   bout.html: Information regarding our organizational history and objectives.
-    *   	eam.html: Categorized directory of our Executive Board, Department Heads, Advisory Board, and General Members.
-    *   `contact.html`: Digital portal for membership inquiries, corporate partnerships, and technical support.
-*   **Governance & Legal:**
-    *   privacy-policy.html: Data confidentiality and protection guidelines.
-    *   	erms-of-service.html: Code of Conduct, membership prerequisites, and dispute resolution frameworks.
-    *   cookie-policy.html: Details regarding web analytics and user tracking.
-*   **Assets & Interactivity:**
-    *   css/style.css: Global stylesheet utilizing modern CSS variables, Grid, and Flexbox for responsive layouts across all devices.
-    *   js/script.js: Vanilla JavaScript executing scroll-based reveal animations (IntersectionObserver) and mobile navigation interfaces.
-    *   ssets/: Directory containing all media, placeholder images, and organizational branding.
+- `index.html`
+- `about.html`
+- `programs.html`
+- `team.html`
+- `contact.html`
 
-## Development and Local Setup
+### Legal pages
 
-This project requires no complex build tools or package managers. It is designed entirely with vanilla HTML5, CSS3, and JavaScript to assure longevity and minimal technical debt.
+- `privacy-policy.html`
+- `cookie-policy.html`
+- `terms-of-service.html`
 
-1.  **Clone the Repository**
-    `ash
-    git clone https://github.com/sakxam-xeetri/RoboYuwa.git
-    `
+### Static resources
 
-2.  **Navigate to the Directory**
-    `ash
-    cd RoboYuwa
-    `
+- `css/style.css` - global styles
+- `js/script.js` - navigation, scroll effects, reveal animations
+- `js/email-handler.js` - contact form integration via EmailJS
+- `assets/` - images and branding assets used by the site
 
-3.  **Run a Local Server**
-    To view the site correctly and ensure all script-based observers and asset paths resolve accurately, serve the directory using a local development server.
-    *   Using Python: python -m http.server 8000
-    *   Using Node.js: 
-px serve
-    *   Using VS Code: Install and run the "Live Server" extension.
+### Documentation
 
-## Governance and Compliance
+- `doc/RoboYuwa_NGO_Details.txt`
+- `doc/roboyuwa extracted.txt`
 
-As dictated by the Strategic Goals for the 2025-2027 Tenure managed by the RoboYuwa Legalities Department, this platform serves as the digital foundation for our organizational accountability. All members and external developers contributing to this repository are required to adhere to the RoboYuwa Code of Conduct and Professionalism guidelines as outlined in our Terms of Service.
+## Run Locally
 
-## Contact Information
+Serve the project root with any static web server.
 
-For inquiries, partnerships, codebase contributions, or technical support, please utilize the contact details below:
-*   **Email:** contact@roboyuwa.org
-*   **Phone:** +977 980-0000000
-*   **Address:** Kathmandu, Nepal
+### Option 1: Python
 
-## Intellectual Property
+```bash
+python -m http.server 8000
+```
 
-Unless otherwise indicated within specific project directories, the website interface, source code, visual designs, text, photographs, graphics, and architectural logos are owned or licensed by RoboYuwa. They are protected by copyright, trademark, and various other international intellectual property laws. Unauthorized reproduction or commercial distribution without explicit written permission is strictly prohibited.
+### Option 2: Node.js
+
+```bash
+npx serve
+```
+
+Then open `http://localhost:8000`.
+
+## Contact Form Configuration
+
+The contact form expects a project-root `.env` file for EmailJS values.
+
+Required keys:
+
+- `EMAILJS_PUBLIC_KEY`
+- `EMAILJS_SERVICE_ID`
+- `EMAILJS_TEMPLATE_ID`
+- `FORWARD_TO_EMAIL`
+
+## Notes on Repository Cleanup
+
+- Removed one-off Python maintenance scripts that were not part of runtime.
+- Removed orphaned, unreferenced images from `assets/`.
+- Kept only files currently used by the website pages and scripts.
+
+## Contact
+
+- Email: `roboyuwa@gmail.com`
+- Phone: `+977 9749464658`
+- Location: Kathmandu, Nepal
